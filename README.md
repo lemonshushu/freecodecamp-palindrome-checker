@@ -1,0 +1,1 @@
+# fcc-jsds-palindrome-checker
